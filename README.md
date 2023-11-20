@@ -24,7 +24,6 @@ This Streamlit app helps you assess your investment risk tolerance and provides 
 
 3. Run the app:
    ```bash
-   cd investment-risk-assessment
    streamlit run app.py
    ```
 
