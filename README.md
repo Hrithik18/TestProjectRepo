@@ -41,6 +41,9 @@ This Streamlit app helps you assess your investment risk tolerance and provides 
 * The `generate_report` function generates the personalized retirement savings report in Markdown format.
 * The `color_discrete_map` dictionary defines the color scheme for the spending vs. income chart.
   
+
+
+
 **OUTPUT:**
   
 ![output1](https://github.com/Hrithik18/TestProjectRepo/assets/59764941/95080cba-3459-4070-b224-81c56d462819)
